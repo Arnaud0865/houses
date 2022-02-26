@@ -99,6 +99,12 @@ body {
 	transform: rotateY(0deg);
 }
 
+.subtext {
+	font-size: 15px;
+	font-style: italic;
+	text-align: center;
+}
+
 .yellow, .yellow:visited {
   color: yellow;
   text-decoration: none;
